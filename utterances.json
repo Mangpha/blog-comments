@@ -1,3 +1,3 @@
 {
-  "origins": ["https://mangpha.dev"]
+  "origins": ["https://mangpha.dev", "http://localhost:3000"]
 }
